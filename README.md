@@ -25,7 +25,10 @@ Sketch/Wireframe: Create a detailed wireframe or mockup showcasing the homepage 
 Presentation: Prepare a brief presentation explaining design decisions, emphasizing user-centricity, and showcasing the visual and functional aspects of the redesign.
 Deliverables
 Visual Representation: Provide a high-fidelity mockup or wireframe demonstrating the redesigned homepage layout, incorporating all key elements and visual aesthetics.
-
+HTML Structure: The HTML provides a structured layout using semantic tags (header, section, footer) for different sections of the website. It includes navigation links, sections for products/services, about us, and contact.
+CSS Styling: The CSS file (styles.css) defines styles for layout, typography, colors, and responsiveness to ensure the website looks visually appealing and functions well across devices.
+JavaScript: The JavaScript file (scripts.js) enhances the user experience with interactive features like smooth scrolling to sections when navigation links are clicked.
+This setup serves as a foundational structure. Depending on specific design requirements and interactions detailed in the UX designs, you would expand upon these templates, incorporate additional components, and refine styles and functionality to create a polished and user-friendly website for uplyft.ai.
 Presentation: Prepare a 5-10 minute presentation covering:
 
 Introduction to uplyft.ai and its mission.
